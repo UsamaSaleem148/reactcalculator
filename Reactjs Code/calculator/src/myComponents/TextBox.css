@@ -1,0 +1,31 @@
+.input{
+    height: 3.5em;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.4em;
+    background-color: #E48FA7;
+    color: #ffffff;
+    flex: 3.5;
+    /* border-radius: 10px; */
+    margin: 10px;
+    box-shadow: 6px 6px 6px -6px rgba(0,0,0,0.75);
+    overflow: hidden;
+}
+
+.clearBtn{
+    height: 3.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.4em;
+    background-color: #80ADD7;
+    cursor: pointer;
+    color: #ffffff;
+    flex: 1;
+    margin: 10px;
+    box-shadow: 6px 6px 6px -6px rgba(0,0,0,0.75);
+}
